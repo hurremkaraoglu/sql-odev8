@@ -7,7 +7,6 @@ birthday DATE,
 email VARCHAR(100)
 );
 
-2-)
 insert into employee (name, birthday, email) values ('Sydel', '1982/12/15', 'sdodimead0@home.pl');
 
 insert into employee (name, birthday, email) values ('Charlotta', '1901/04/12', 'cgough1@wiley.com');
